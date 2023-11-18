@@ -25,3 +25,5 @@ use `pytest <filename>_test.py`. eg:
 ```
 pytest hello_test.py
 ```
+
+Follow the tutorials at https://www.w3schools.com/python/ to learn more.
